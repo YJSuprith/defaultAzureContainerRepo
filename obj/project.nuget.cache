@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yK5GwLkTWOtNTeVVfq6A767Nr304wDHEcWNYh64K1NH65ZiST8bPYT88gwJtLgQTOvDkrrKFt/EmcpigLAuxHw==",
+  "success": true,
+  "projectFilePath": "F:\\CTS traning\\stage4\\AutomaticContainrizatiionAzureProject\\AutomaticContainrizatiionAzureProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SUPRITH\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
